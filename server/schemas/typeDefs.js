@@ -37,7 +37,7 @@ input BookInput {
 type Mutation {
  login(email: String!, password: String!): Auth
  addUser(username: String!, email: String!, password: String!): Auth
- saveBook(_id: ID!, book: BookInput!): User
+ saveBook(userId: ID!, book: BookInput!): User
  removeBook(_id: ID!): User
 }
 `;
