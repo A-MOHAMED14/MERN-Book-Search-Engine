@@ -22,7 +22,7 @@ type Auth {
 }
 
 type Query {
-me(_id: ID, username: String): User
+me(userId: ID, username: String): User
 }
 
 input BookInput {
