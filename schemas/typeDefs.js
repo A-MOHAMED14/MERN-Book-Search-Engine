@@ -20,6 +20,8 @@ type Auth {
  token: ID!
  user: User
 }
- 
+
+type Query {
+me(_id: ID!, username: string): User
 }
 `;
