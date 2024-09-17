@@ -17,3 +17,31 @@ The user can save books by clicking "Save This Book!" under each search result, 
 A user can view their saved books on a separate page, as shown in the following animation:
 
 ![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](./assets/demo-03.gif)
+
+## 🚀 Installation
+
+1. **Clone the Repository**:
+
+```sh
+git clone https://github.com/A-MOHAMED14/MERN-Book-Search-Engine.git
+```
+
+2. **Navigate to the Project Directory:**
+
+```sh
+cd MERN-Book-Search-Engine
+```
+
+3. **Install dependencies:**
+
+```sh
+npm run install
+```
+
+4. **Start MongoDB server and seed data:**
+
+```sh
+mongod
+
+npm run seed
+```
