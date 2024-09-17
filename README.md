@@ -18,6 +18,19 @@ A user can view their saved books on a separate page, as shown in the following 
 
 ![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](./assets/demo-03.gif)
 
+## ⚒️ Technologies Used
+
+- **React.js:** For building the user interface and handling client-side logic.
+- **Node.js:** The runtime environment for executing JavaScript code on the server.
+- **Express.js:** For routing and handling server requests.
+- **Apollo Server:** For implementing GraphQL queries and mutations.
+- **GraphQL:** A query language for APIs to request and modify data.
+- **MongoDB:** As the NoSQL database for storing user and book data.
+- **Mongoose:** An ODM for MongoDB, used to model and interact with data in the database.
+- **Render:** For deploying the application.
+- **MongoDB Atlas:** For cloud database hosting.
+- **JavaScript:** The programming language used to build the application logic.
+
 ## 🚀 Installation
 
 1. **Clone the Repository**:
