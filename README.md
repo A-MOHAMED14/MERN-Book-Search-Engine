@@ -45,3 +45,23 @@ mongod
 
 npm run seed
 ```
+
+## 🏗️ Usage
+
+1. **Start the Server and Client Concurrently:**
+
+To run both the client and server for development, use:
+
+```sh
+npm run develop
+```
+
+2. **Build the Client for Production:**
+
+To create a production build of the client, run:
+
+```sh
+npm run build
+```
+
+Make sure MongoDB is running and your database is seeded as described in the Installation section.
