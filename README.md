@@ -6,6 +6,16 @@
 
 The MERN: Book Search Engine is a full-stack web application that allows users to search for books, save their favorite books, and view their saved books list. Originally built with a RESTful API, this project has been refactored to use GraphQL with Apollo Server for improved performance and flexibility.
 
+## Table Of Contents
+
+- [ 🎥 Application Demo ](#🎥-application-demo)
+- [⚒️ Technologies Used](#⚒️-technologies-used)
+- [🚀Installation ](#🚀-installation)
+- [🏗️ Usage](#🏗️-usage)
+- [🤝 Contributing ](#🤝-contributing)
+- [📄 License ](#📄-license)
+- [❓ Questions ](#❓-questions)
+
 ## 🎥 Application Demo
 
 As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
